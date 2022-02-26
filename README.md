@@ -1,4 +1,4 @@
-# nfts_data
+# Internet Computer NFTs data using ic-py library
 
 A simple working example that is using ic-py library to pull data from NFTS canisters listed on Entrepot.
 
